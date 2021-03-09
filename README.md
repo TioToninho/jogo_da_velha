@@ -1,6 +1,3 @@
-# jogo_da_velha
-Jogo da velha usando Python 3. 
-
 # Jogo da Velha 
 
 Jogo da velha usando Python 3. 
